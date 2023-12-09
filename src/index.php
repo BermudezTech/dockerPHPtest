@@ -6,6 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Docker & PHP</title>
 </head>
+<style>
+    body {
+        text-align: center;
+        font-family: sans-serif;
+        background-color: #f3f3f3;
+    }
+</style>
 
 <body>
     <h1><?php echo "Hello World from PHP with Docker and Github Actions"; ?>
