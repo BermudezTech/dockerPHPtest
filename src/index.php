@@ -12,6 +12,10 @@
         font-family: sans-serif;
         background-color: #f3f3f3;
     }
+
+    h2 {
+        color: #333;
+    }
 </style>
 
 <body>
@@ -19,6 +23,7 @@
     </h1>
     <p>Here is the PHP version: <?php echo phpversion(); ?></p>
     <p>I'm adding this line to test GitHub Actions</p>
+    <h2>This is the website of BermudezTech</h2>
 </body>
 
 </html>
