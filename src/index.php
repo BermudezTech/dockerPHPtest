@@ -12,6 +12,7 @@
     </h1>
     <p>Here is the PHP version: <?php echo phpversion(); ?></p>
     <p>I'm adding this line to test GitHub Actions</p>
+    <p>One more test with SSH</p>
 </body>
 
 </html>
