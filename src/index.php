@@ -11,6 +11,7 @@
     <h1><?php echo "Hello World from PHP with Docker and Github Actions"; ?>
     </h1>
     <p>Here is the PHP version: <?php echo phpversion(); ?></p>
+    <p>I'm adding this line to test GitHub Actions</p>
 </body>
 
 </html>
